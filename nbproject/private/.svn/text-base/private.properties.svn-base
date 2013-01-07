@@ -1,0 +1,6 @@
+compile.on.save=true
+do.depend=false
+do.jar=true
+javac.debug=true
+javadoc.preview=true
+user.properties.file=/h/u8/c1/00/c1hamand/.netbeans/6.9/build.properties
